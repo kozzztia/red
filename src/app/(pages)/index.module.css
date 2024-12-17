@@ -1,0 +1,10 @@
+
+.layout{
+    width: 100%;
+}
+
+.container{
+    width: 100%;   
+    background: #272727;
+    flex: 1;
+}
